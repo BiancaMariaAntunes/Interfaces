@@ -1,0 +1,33 @@
+.principal{
+    position: relative;
+    width: 63px;
+    height: 65px;
+    left: 567px;
+    top: -45px;
+    background: #646363;
+}
+
+.section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+
+.Letra{
+    position: relative;
+    width: 25px;
+    height: 50px;
+    left: 23px;
+    top: -23px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 42px;
+    
+    color: #FFFFFF;
+}

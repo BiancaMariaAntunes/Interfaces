@@ -1,0 +1,26 @@
+.principal{
+
+    position: absolute;
+    width: 1146px;
+    height: 762px;
+    left: 366px;
+    top: 121px;
+    
+    background: #576CBC;
+
+}
+.Letra{
+    position: absolute;
+    width: 198px;
+    height: 54px;
+    left: 500px;
+    top: 275px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 54px;
+    
+    color: #FFFFFF;
+    
+}

@@ -1,0 +1,130 @@
+.principal{
+    width: 25vw;
+    height: 80vh;
+    background: #8257E5;
+    display: flex;  
+    flex-direction: column;
+    align-items: center;
+}
+.section{
+    display: flex;  
+    flex-direction: column;
+    align-items: center;
+}
+
+.letra1{
+    margin-top: 3vh;
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 2.5vh;
+    line-height: 31px;
+    color: #FFFFFF;
+    
+}
+.quadrado1{
+    margin-top: 1vh;
+    width: 15vw;
+    height: 6vh;
+    background: #5D5FEF;
+    border: 1px solid #5D5FEF;
+    border-radius: 12px;
+
+}
+.linha{
+    border-bottom: 0.2vh solid #fff;
+    width: 1000%;
+    margin-top: 1.5vh;
+    margin-left: -50vh;
+}
+.letra2{
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 2vh;
+    margin-top: 1.5vh;
+    text-align: center;
+    display: flex;  
+    justify-content: space-evenly;
+    color: #FFFFFF;
+}
+.letra3{
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 2vh;
+    margin-top: 6vh;
+    margin-left: -30vh;
+    color: #FFFFFF;
+}
+.quadrado2{
+    width: 4vw;
+    height: 8vh;
+    margin-top: 5vh;
+    margin-left: -18vh;
+    background: #9164FA;
+    mix-blend-mode: normal;
+    border-radius: 16px;
+}
+.quadrado3{
+    width: 4vw;
+    height: 8vh;
+    margin-top: -8vh;
+    margin-left: 20vh;
+    background: #9164FA;
+    mix-blend-mode: normal;
+    border-radius: 16px;
+}
+.quadrado4{
+    width: 4vw;
+    height: 8vh;
+    margin-top: -8vh;
+    margin-left: 1vh;
+    background: #9164FA;
+    mix-blend-mode: normal;
+    border-radius: 16px;
+}
+.letra4{
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 3vh;
+    color: #FFFFFF;
+    text-align: center;
+    display: flex;  
+    justify-content: space-evenly;
+    color: #FFFFFF;
+    margin-top: 2vh;
+}
+.quadrado5{
+    margin-top: 4vh;
+    width: 12vw;
+    height: 7vh;
+    background: #9164FA;
+    mix-blend-mode: normal;
+    border-radius: 16px;
+    }   
+.quadrado6{
+    margin-top: 5vh;
+    width: 16vw;
+    height: 5vh;
+    background: #04D361;
+    border-radius: 1.5vh;
+}
+
+.quadrado7{
+    margin-top: 2vh;
+    width: 16vw;
+    height: 5vh;
+    background: #D34C6C;
+    border-radius: 1.5vh;
+}
+.letra5{
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 2vh;
+    margin-top: 1.3vh;
+    text-align: center;
+    color: #FFFFFF;
+}

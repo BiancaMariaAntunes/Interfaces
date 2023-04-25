@@ -1,0 +1,25 @@
+.estilo {
+    position: absolute;
+    width: 1512px;
+    height: 101px;
+    left: 0px;
+    top: 881px;
+    
+    background: #A5D7E8;
+}
+
+.Letra{
+    position: absolute;
+    width: 179px;
+    height: 54px;
+    left: 667px;
+    top: -25px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 54px;
+    
+    color: #FFFFFF;
+}

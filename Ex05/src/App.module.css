@@ -1,0 +1,17 @@
+*{margin: 0;}
+.main{
+    display: flex;
+    flex-direction:column;
+    width: 35%;
+    margin-top: -40vw;
+    gap: 30px ;
+    margin-left: 1vw;
+
+
+}
+.bloco{
+    display: flex;
+    justify-content: flex-end;
+    width: 62%;
+
+}

@@ -1,0 +1,19 @@
+.principal{
+    width: 616px;
+    height: 60px;
+    background: #9164FA;
+
+}
+.Letra{
+    display:flex;
+    justify-content:space-evenly;
+    align-items: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 15px;
+    
+    color: #FFFFFF;
+    
+}

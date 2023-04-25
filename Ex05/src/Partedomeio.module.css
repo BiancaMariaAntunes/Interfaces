@@ -1,0 +1,50 @@
+.estilo {
+    display: flex;
+    height: 100px;  
+    background: #fff;
+    margin-left: 40px;
+    flex-direction: column;
+    gap: 35px;
+   
+
+
+}
+.img{
+    width: 30vw;
+    height: 16vh;
+    border-radius: 16px;
+    margin-top: 2vw;
+
+}
+.letra{
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 3vh;
+    line-height: 40px; 
+    color: #494D4B;
+    border-bottom: 100px #000;
+
+}
+
+.letra2{
+    display: flex;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1,5vh;
+    line-height: 17px;
+    border-bottom: 0.1vh solid #808080;
+    color: #808080;
+}
+
+.letra3{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.9vw;
+    line-height: 26px;
+    
+
+    color: #494D4B;
+}
